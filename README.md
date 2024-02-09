@@ -1,5 +1,5 @@
 # "Drink Water" Reminder
-This program will remind you for drinking water after a particular interval of time (you can set it in program) using os's notification system.
+This program will remind you for drinking water after a particular interval of time (you can set it in program) using OS's notification system.
 
 # Requirements
 First we need pyler module which will help us to use os's notification system
