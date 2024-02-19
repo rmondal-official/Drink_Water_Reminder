@@ -27,9 +27,9 @@ Based on Python 3.10 (I hope it would be compatible with newer versions)
 3. **Run the script:**
    ```bash
    cd Drink_Water_Reminder
-   python Drink_Water.py
+   python main.py
    ```
-4. **(Optional) Set a custom interval:** Modify the `reminder_interval` variable in the script to suit your preferences.
+4. **(Optional) Set a custom interval:** Modify the `time.sleep()` variable in the script to suit your preferences.
 
 # Customization
 
