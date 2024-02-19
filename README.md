@@ -31,10 +31,6 @@ Based on Python 3.10 (I hope it would be compatible with newer versions)
    ```
 4. **(Optional) Set a custom interval:** Modify the `time.sleep()` variable in the script to suit your preferences.
 
-# Customization
-
-The script comes with a default reminder interval, but you can easily adjust it to match your personal hydration goals. Simply locate and modify the `reminder_interval` variable within the script.
-
 # Contribution
 
 We welcome contributions to this project! Feel free to fork the repository, make changes, and submit pull requests for review. Your involvement can help enhance and improve this reminder system for the benefit of everyone.
