@@ -18,7 +18,7 @@ Based on Python 3.10 (I hope it would be compatible with newer versions)
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Drink_Water_Reminder.git
+   git clone https://github.com/rmondal-official/Drink_Water_Reminder.git
    ```
 2. **Install dependencies:**
    ```bash
